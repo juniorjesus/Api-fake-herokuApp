@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Api-fake-herokuApp/static/css/main.5f67080e.chunk.css",
+    "main.js": "/Api-fake-herokuApp/static/js/main.4e318ffa.chunk.js",
+    "main.js.map": "/Api-fake-herokuApp/static/js/main.4e318ffa.chunk.js.map",
+    "runtime-main.js": "/Api-fake-herokuApp/static/js/runtime-main.fdf705ae.js",
+    "runtime-main.js.map": "/Api-fake-herokuApp/static/js/runtime-main.fdf705ae.js.map",
+    "static/js/2.2fda0579.chunk.js": "/Api-fake-herokuApp/static/js/2.2fda0579.chunk.js",
+    "static/js/2.2fda0579.chunk.js.map": "/Api-fake-herokuApp/static/js/2.2fda0579.chunk.js.map",
+    "index.html": "/Api-fake-herokuApp/index.html",
+    "static/css/main.5f67080e.chunk.css.map": "/Api-fake-herokuApp/static/css/main.5f67080e.chunk.css.map",
+    "static/js/2.2fda0579.chunk.js.LICENSE.txt": "/Api-fake-herokuApp/static/js/2.2fda0579.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf705ae.js",
+    "static/js/2.2fda0579.chunk.js",
+    "static/css/main.5f67080e.chunk.css",
+    "static/js/main.4e318ffa.chunk.js"
+  ]
+}
